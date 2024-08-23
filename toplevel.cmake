@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project("ros2_project")
+project("PROJECT_NAME")
 
 include("/opt/ros/scripts/cmake/colcon.cmake")
 
